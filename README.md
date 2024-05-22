@@ -12,6 +12,7 @@
 <summary><b>I play CTFs too!</summary>
 <p align="center">
   <summary><b>TryHackMe</b>: </summary>
+  scripts: >
   <script src="https://tryhackme.com/badge/824135"></script>
   
   
