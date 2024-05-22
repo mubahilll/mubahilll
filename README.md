@@ -12,15 +12,8 @@
 <summary><b>I play CTFs too!</summary>
 <p align="center">
   <summary><b>TryHackMe</b>: </summary>
-  <br>
-  <img src="assets/tryhackme.png" alt="TryHackMe">
-</p>
+  <script src="https://tryhackme.com/badge/824135"></script>
   
-<p align="center">
-  <summary><b>HackTheBox</b>: </summary>
-  <br>
-  <img src="assets/hackthebox.png">
-</p>
   
 <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
