@@ -12,7 +12,7 @@
 <summary><b>I play CTFs too!</summary>
 <p align="center">
   <summary><b>TryHackMe</b>: </summary>
-  <script src="https://tryhackme.com/badge/824135"></script>
+  ![]<script src="https://tryhackme.com/badge/824135"></script>
 </p>
   
 <summary> 😇 <b>My Github Stats</b>: </summary>
