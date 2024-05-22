@@ -1,16 +1,31 @@
-## Hi there 👋
+### Hi there 👋
+#### About Me:
+- Cyber Security Student
+- Programmer.
+- Web Development
 
 <!--
-**mubahilll/mubahilll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<summary><b>The tools in my arsenal: </summary>
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 -->
+<summary><b>I play CTFs too!</summary>
+<p align="center">
+  <summary><b>TryHackMe</b>: </summary>
+  <br>
+  <img src="assets/tryhackme.png" alt="TryHackMe">
+</p>
+  
+<p align="center">
+  <summary><b>HackTheBox</b>: </summary>
+  <br>
+  <img src="assets/hackthebox.png">
+</p>
+  
+<summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=mubahilll&show_icons=true&theme=tokyonight&line_height=27">
+  <br>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mubahilll&hide=css,java,html&theme=tokyonight">
+</p>
